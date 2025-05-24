@@ -29,6 +29,6 @@ Display of submitted data on a new route (/success)
 ✅ Client-side Routing with React Router
 
 ✅ Display Submitted Data on a new route
-
+🚀 Run :
 Open your browser at http://localhost:5173
 
