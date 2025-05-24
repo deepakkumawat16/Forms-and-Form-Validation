@@ -30,3 +30,5 @@ Display of submitted data on a new route (/success)
 
 ✅ Display Submitted Data on a new route
 
+Open your browser at http://localhost:5173
+
